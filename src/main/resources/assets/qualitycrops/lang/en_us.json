@@ -133,5 +133,9 @@
 
   "itemGroup.qualitycrops.crops": "Quality Crops",
   "itemGroup.qualitycrops.items": "Quality Crops Items",
-  "itemGroup.qualitycrops.quality_items": "Quality Items"
+  "itemGroup.qualitycrops.quality_items": "Quality Items",
+
+  "rarity.iron.name": "Iron",
+  "rarity.gold.name": "Gold",
+  "rarity.diamond.name": "Diamond"
 }
