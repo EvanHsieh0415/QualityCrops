@@ -119,10 +119,14 @@
   "item.qualitycrops.wheat_iron": "小麥",
 
   "block.qualitycrops.diamond_farmland": "鑽石耕地",
-  "block.qualitycrops.gold_farmland": "金質耕地",
-  "block.qualitycrops.iron_farmland": "鐵質耕地",
+  "block.qualitycrops.gold_farmland": "黃金耕地",
+  "block.qualitycrops.iron_farmland": "鐵耕地",
 
   "itemGroup.qualitycrops.crops": "優質作物－作物",
   "itemGroup.qualitycrops.items": "優質作物－物品",
-  "itemGroup.qualitycrops.quality_items": "優質作物－食物"
+  "itemGroup.qualitycrops.quality_items": "優質作物－食物",
+
+  "rarity.diamond.name": "鑽石品質",
+  "rarity.gold.name": "黃金品質",
+  "rarity.iron.name": "鐵品質"
 }
