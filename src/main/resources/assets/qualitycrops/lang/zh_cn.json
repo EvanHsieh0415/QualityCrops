@@ -124,5 +124,9 @@
 
   "itemGroup.qualitycrops.crops": "优质作物－作物",
   "itemGroup.qualitycrops.items": "优质作物－物品",
-  "itemGroup.qualitycrops.quality_items": "优质作物－食物"
+  "itemGroup.qualitycrops.quality_items": "优质作物－食物",
+
+  "rarity.diamond.name": "钻石",
+  "rarity.gold.name": "金质",
+  "rarity.iron.name": "铁质"
 }
