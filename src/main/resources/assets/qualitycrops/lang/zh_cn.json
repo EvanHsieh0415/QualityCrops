@@ -117,6 +117,12 @@
   "item.qualitycrops.wheat_diamond": "小麦",
   "item.qualitycrops.wheat_gold": "小麦",
   "item.qualitycrops.wheat_iron": "小麦",
-  "itemGroup.qualitycrops.crops": "优质作物",
-  "itemGroup.qualitycrops.items": "优质物品"
+
+  "block.qualitycrops.diamond_farmland": "钻石耕地",
+  "block.qualitycrops.gold_farmland": "金质耕地",
+  "block.qualitycrops.iron_farmland": "铁质耕地",
+
+  "itemGroup.qualitycrops.crops": "优质作物－作物",
+  "itemGroup.qualitycrops.items": "优质作物－物品",
+  "itemGroup.qualitycrops.quality_items": "优质作物－食品"
 }
